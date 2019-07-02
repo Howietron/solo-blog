@@ -10,9 +10,9 @@ howie的个人博客
 
 ### 最新
 
-* [Docker的使用](https://blog.howie.top/solo-v3.6.0/articles/2019/06/29/1561778935539.html)
-* [常用POI方法](https://blog.howie.top/solo-v3.6.0/articles/2019/06/28/1561659669887.html)
-* [分布式事务](https://blog.howie.top/solo-v3.6.0/articles/2019/06/28/1561659215957.html)
+* [Docker的使用](https://blog.howie.top/articles/2019/06/29/1561778935539.html)
+* [常用POI方法](https://blog.howie.top/articles/2019/06/28/1561659669887.html)
+* [分布式事务](https://blog.howie.top/articles/2019/06/28/1561659215957.html)
 
 
 
