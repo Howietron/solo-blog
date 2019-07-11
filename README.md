@@ -10,6 +10,7 @@ howie的个人博客
 
 ### 最新
 
+* [java的一些常见异常](https://blog.howie.top/solo-v3.6.0/articles/2019/07/10/1562751023589.html)
 * [我在 GitHub 上的开源项目](https://blog.howie.top/solo-v3.6.0/my-github-repos)
 * [Docker的使用](https://blog.howie.top/solo-v3.6.0/articles/2019/06/29/1561778935539.html)
 * [常用POI方法](https://blog.howie.top/solo-v3.6.0/articles/2019/06/28/1561659669887.html)
