@@ -10,13 +10,13 @@ howie的个人博客
 
 ### 最新
 
-* [VisualStudioCodemd的一些常用快捷键](https://blog.howie.top/articles/2019/08/24/1566582658080.html)
-* [Spring类中的一些常用方法](https://blog.howie.top/articles/2019/08/24/1566581445733.html)
-* [zookeeper的容错与脑裂问题](https://blog.howie.top/articles/2019/07/22/1563777433197.html)
-* [java的一些常见异常](https://blog.howie.top/articles/2019/07/10/1562751023589.html)
-* [Docker的使用](https://blog.howie.top/articles/2019/06/29/1561778935539.html)
-* [常用POI方法](https://blog.howie.top/articles/2019/06/28/1561659669887.html)
-* [分布式事务](https://blog.howie.top/articles/2019/06/28/1561659215957.html)
+* [VisualStudioCodemd的一些常用快捷键](https://blog.howie.top/solo-v3.6.0/articles/2019/08/24/1566582658080.html)
+* [Spring类中的一些常用方法](https://blog.howie.top/solo-v3.6.0/articles/2019/08/24/1566581445733.html)
+* [zookeeper的容错与脑裂问题](https://blog.howie.top/solo-v3.6.0/articles/2019/07/22/1563777433197.html)
+* [java的一些常见异常](https://blog.howie.top/solo-v3.6.0/articles/2019/07/10/1562751023589.html)
+* [Docker的使用](https://blog.howie.top/solo-v3.6.0/articles/2019/06/29/1561778935539.html)
+* [常用POI方法](https://blog.howie.top/solo-v3.6.0/articles/2019/06/28/1561659669887.html)
+* [分布式事务](https://blog.howie.top/solo-v3.6.0/articles/2019/06/28/1561659215957.html)
 
 
 
