@@ -10,6 +10,7 @@ howie的个人博客
 
 ### 最新
 
+* [Redis常用命令详解](https://blog.howie.top/solo-v3.6.0/articles/2019/11/08/1573181222364.html)
 * [我在 GitHub 上的开源项目](https://blog.howie.top/solo-v3.6.0/my-github-repos)
 * [SpringClound](https://blog.howie.top/solo-v3.6.0/articles/2019/09/16/1568624950149.html)
 * [VisualStudioCodemd的一些常用快捷键](https://blog.howie.top/solo-v3.6.0/articles/2019/08/24/1566582658080.html)
